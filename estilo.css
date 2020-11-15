@@ -1,0 +1,71 @@
+#id-ranciovich2 b:hover{
+	color: red;
+}
+#id-ranciovich2 b{
+	color: yellow;
+}
+.formulario__input--active{
+	color: blue;
+}
+
+#id-ranciovich2{
+	font-size: 25px;
+	font-family: Georgia;
+	width: 100vw;
+}
+.parrafo1{
+	font-size: 1em;
+	font-family: sans-serif;
+	line-height: 1,5;
+	font-weight: 450;
+}
+.titulo1{
+	font-family: 'Krona One',sans-serif;
+	background-color: lightgrey;
+	padding: 10px 20px;
+	width: 100vw;
+	font-size: 15px;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+}
+#id-ranciovich2{
+	font-family:'Krona One',sans-serif;
+	font-size: 40px;
+}
+#id-ranciovich2{
+	background-color: orange;
+	display: inline-block;
+	padding: 20px 30px;
+	text-align: center;
+	text-shadow: 1px 1px 5px #000;
+	position: relative;
+}
+.javiermilei{
+	display: inline-block;
+	position: relative;
+	left: 25%;
+	border-style: solid;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	box-shadow: 4px 6px grey, 4px 6px grey;
+}
+.parrafo1{
+	text-align: center;
+	width: 100vw;
+	padding-right: 100px;
+	padding-left: 100px;
+	position: relative;
+}
+.form{
+	width: 100vw;
+	position: relative;
+	display: inline-block;
+	text-align: center;
+}
+.formulario__input1, .formulario__input2, .formulario__input3{
+	margin: 20px 10px;
+}
+.videopitusas{
+	width: 20vw;
+}
